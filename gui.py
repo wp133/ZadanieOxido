@@ -42,11 +42,3 @@ html_label = HTMLLabel(root, html=html_content)
 html_label.pack(fill="both", expand=True)
 
 root.mainloop()
-
-
-
-
-
-#result_label.config(text=desc)
-#result_label = tk.Label(root, text="", wraplength=380, justify="left")
-#result_label.pack(pady=20)
