@@ -10,4 +10,4 @@ Domyślnie wybór proponowanych plików jest zawężony do pliku "Zadanie dla JJ
 Przycisk Reset służy do czyszczenia pliku showcase.html. Aplikacja domyślnie pokazuje ostatni otwarty artykuł. Tak, to feature.
 
 #####################
-Załączone są tez pliki "requirements.txt" zawierający listę używanych bibliotek, oraz "image_placeholder.jpg" będący imponującym fajerwerkiem graficznym.
+Załączone są tez pliki "requirements.txt" zawierający listę używanych bibliotek (jedna z nich tj. tkinter jest częścią standardowej instalacji Pythona), oraz "image_placeholder.jpg" będący imponującym fajerwerkiem graficznym.
