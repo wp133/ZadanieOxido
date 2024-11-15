@@ -2,7 +2,8 @@ from openai import OpenAI
 
 
 def article_formatting(filetxt):
-    API_KEY = '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'
+    #Nie byłem pewien, czy zostawić klucz, czy nie, więc na wszelki wypadek go usuwam. Założyłem, że skoro klucz jest Państwa, aja tylko pozyczam to tak będzie lepiej - przyp. aut.
+    API_KEY = 'tu umieścić klucz api'
     try:
         with open(filetxt, 'r') as file:
             lines = file.readlines()
