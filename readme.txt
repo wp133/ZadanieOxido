@@ -1,5 +1,6 @@
 !!!!!!!!!WAŻNE!!!!!!!!!
-W pliku formatting.py jest miejsce na klucz dla API, który usunąłem ze względów bezpieczeństwa. Nie byłem pewien czy to dla Państwa problem, więc wolałem dmuchać na zimne.
+W pliku formatting.py jest miejsce na klucz dla API, który usunąłem ze względów bezpieczeństwa. Nie byłem pewien czy to dla Państwa problem, więc wolałem dmuchać na zimne. Oczywiśce z kluczem powinno działać.
+!!!!!!!!!!!!!!!!!!!!!!!
 
 Asystent HTML - aplikacja strukturyzująca tekst zadany w pliku txt i tworząca na jego podstawie pliki: artykul.html (bez sekcji <body>) oraz showcase.html (z sekcją <body>).
 Zasadnicza część aplikacji tj. kod składa się z dwóch plików .py - gui (interfejs) oraz formatting (wysyłanie promptu).
