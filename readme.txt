@@ -1,4 +1,5 @@
-Asystent HTML - aplikacja strukturyzująca tekst zadany w pliku txt i tworząca na jego podstawie pliki: artykul.html (bez sekcji <body>) oraz showcase.html (z sekcją <body>)
+Asystent HTML - aplikacja strukturyzująca tekst zadany w pliku txt i tworząca na jego podstawie pliki: artykul.html (bez sekcji <body>) oraz showcase.html (z sekcją <body>).
+Zasadnicza część aplikacji tj. kod składa się z dwóch plików .py - gui (interfejs) oraz formatting (wysyłanie promptu).
 
 Asystenta można otworzyć poprzez dwukrotne kliknięcie załączonego pliku wykonywalnego "gui.exe". Deweloper uprzedza, że istnieje niezerowa szansa, że plik ów nie zadziała.
 Wówczas zaleca się skompilowanie pliku "gui.py".
