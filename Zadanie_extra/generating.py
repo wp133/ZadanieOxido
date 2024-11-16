@@ -10,7 +10,7 @@ def article_generating():
             messages=[
                 {
                     "role": "user",
-                    "content": "Wygeneruj szablon HTML z pustą sekcją <body> do której można wkleić dowolny tekst. Użyj elementów CSS żeby poprawnie ustrukturyzować kod.",
+                    "content": "Wygeneruj szablon HTML z pustą sekcją <body> do której można wkleić dowolny tekst. Użyj elementów CSS żeby poprawić czytelność strony po umieszczeniu w niej tekstu.",
                 }
             ],
             model="gpt-3.5-turbo",
